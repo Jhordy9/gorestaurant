@@ -4,7 +4,7 @@
     GoRestaurant
 </h1>
 
-<h4 align="center">****
+<h4 align="center">
   The menu of a Italian Restaurant.
 </h4>
 <p align="center">
@@ -23,7 +23,7 @@
   <a href="#memo-license">License</a>
 </p>
 
-<img alt="Explorer SVG" src="https://github.com/Jhordy9/gorestaurant/blob/master/public/assets/github.jpg" />
+<img alt="GoRestaurant" src="https://github.com/Jhordy9/gorestaurant/blob/master/assets/Group%204%20(1).png" />
 
 ## :rocket: Technologies
 
